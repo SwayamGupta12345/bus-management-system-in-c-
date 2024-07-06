@@ -1,4 +1,5 @@
-Bus Reservation System
+**Bus Reservation System**
+
 This project is a simple Bus Reservation System implemented in C. It allows users to manage buses and passengers, book and cancel tickets, and provide feedback.
 
 Features
