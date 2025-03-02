@@ -57,12 +57,6 @@ Follow on-screen instructions to:
 - Book/cancel tickets
 - Access additional services like food ordering and feedback submission
 
-## Contributions
-Contributions are welcome! Feel free to submit issues or pull requests.
-
-## License
-This project is open-source and available under the **MIT License**.
-
 ## Contact
 For any questions or feedback, reach out via [swayamsam2005@gmail.com](mailto:swayamsam2005@gmail.com).
 
